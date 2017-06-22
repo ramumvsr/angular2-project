@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+.container-fluid {
+  background-color: #9ee89e !important;
+}
+.navbar{
+  background-color:#F0F0F0;
+}
+.container-fluid {
+
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  position:fixed;
+  bottom:0;
+  text-align: center;
+}
+.nav{
+  height:50px;
+  background:#F0F0F0;
+
+  width:960px;
+  margin:0px auto;
+}
+body{
+  background-color: #59ABE3;
+}

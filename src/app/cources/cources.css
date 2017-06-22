@@ -1,0 +1,10 @@
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: stretch;
+}
+.container{
+  margin-top: 59px;
+}
